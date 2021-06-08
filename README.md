@@ -1,7 +1,6 @@
-<<<<<<< HEAD
 # Hello-World
 This is simple Hello World Prject
-
+![screenshot](./hello1.png)
 
 
 ## Built With
@@ -26,8 +25,3 @@ To get a local copy up and running follow these simple example steps.
 ### Add commit and push
 
 ### Deployment
-=======
-# This is the my  first project at microvers.
-I created a html page.
-Added style sheet.
->>>>>>> fe7d1d16fe9f36d9462424e7ae47b5b9122120f2
