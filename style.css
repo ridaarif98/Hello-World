@@ -18,3 +18,10 @@ p {
   font-size: 34px;
   margin-left: 40px;
 }
+
+p {
+  font-size: 34px;
+  color: blueviolet;
+  font-style: italic;
+  margin-left: 40px;
+}
