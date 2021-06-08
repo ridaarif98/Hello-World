@@ -9,6 +9,16 @@ h1 {
   text-align: center;
   padding-top: 40px;
   margin-left: 200px;
+  font-style: italic;
+  text-align: center;
+}
+
+p {
+  font-style: italic;
+  color: blueviolet;
+  font-size: 34px;
+  margin-left: 40px;
+  text-align: center;
 }
 
 p {
